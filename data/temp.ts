@@ -1,0 +1,38 @@
+// const postData = [
+//   {
+//     id: 1,
+//     name: "John",
+//     title: "The Java",
+//     subheading: "About the Java language",
+//     desc: "about java",
+//     date: "23/12/24",
+//     img: "data.jpg",
+//   },
+//   {
+//     id: 2,
+//     name: "John",
+//     title: "The Java",
+//     subheading: "About the Java language",
+//     desc: "about java",
+//     date: "23/12/24",
+//     img: "",
+//   },
+//   {
+//     id: 3,
+//     name: "John",
+//     title: "The Java",
+//     subheading: "About the Java language",
+//     desc: "about java",
+//     date: "23/12/24",
+//     img: "",
+//   },
+//   {
+//     id: 4,
+//     name: "John",
+//     title: "The Java",
+//     subheading: "About the Java language",
+//     desc: "about java",
+//     date: "23/12/24",
+//     img: "",
+//   },
+// ];
