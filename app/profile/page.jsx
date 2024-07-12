@@ -9,8 +9,8 @@ export default function CreatePost() {
     tag: "",
     subheading: "",
     desc: "",
-    date: "", // Optional: Add initial date value if needed
-    img: "", // Optional: Add initial image URL if needed
+    date: "", 
+    img: "", 
   });
   // const router = useRouter();
 
